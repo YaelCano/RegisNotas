@@ -1,0 +1,14 @@
+C:\Users\Blacky27p\Documents\Trabajos .net\RegisNotas\bin\Debug\net7.0\RegisNotas.exe
+C:\Users\Blacky27p\Documents\Trabajos .net\RegisNotas\bin\Debug\net7.0\RegisNotas.deps.json
+C:\Users\Blacky27p\Documents\Trabajos .net\RegisNotas\bin\Debug\net7.0\RegisNotas.runtimeconfig.json
+C:\Users\Blacky27p\Documents\Trabajos .net\RegisNotas\bin\Debug\net7.0\RegisNotas.dll
+C:\Users\Blacky27p\Documents\Trabajos .net\RegisNotas\bin\Debug\net7.0\RegisNotas.pdb
+C:\Users\Blacky27p\Documents\Trabajos .net\RegisNotas\obj\Debug\net7.0\RegisNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blacky27p\Documents\Trabajos .net\RegisNotas\obj\Debug\net7.0\RegisNotas.AssemblyInfoInputs.cache
+C:\Users\Blacky27p\Documents\Trabajos .net\RegisNotas\obj\Debug\net7.0\RegisNotas.AssemblyInfo.cs
+C:\Users\Blacky27p\Documents\Trabajos .net\RegisNotas\obj\Debug\net7.0\RegisNotas.csproj.CoreCompileInputs.cache
+C:\Users\Blacky27p\Documents\Trabajos .net\RegisNotas\obj\Debug\net7.0\RegisNotas.dll
+C:\Users\Blacky27p\Documents\Trabajos .net\RegisNotas\obj\Debug\net7.0\refint\RegisNotas.dll
+C:\Users\Blacky27p\Documents\Trabajos .net\RegisNotas\obj\Debug\net7.0\RegisNotas.pdb
+C:\Users\Blacky27p\Documents\Trabajos .net\RegisNotas\obj\Debug\net7.0\RegisNotas.genruntimeconfig.cache
+C:\Users\Blacky27p\Documents\Trabajos .net\RegisNotas\obj\Debug\net7.0\ref\RegisNotas.dll
