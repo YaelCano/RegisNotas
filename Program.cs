@@ -1,8 +1,5 @@
 using System.Collections;
 using ejercicio01.entities;
-{
-    
-}
 
 internal class Program
 {
@@ -567,5 +564,5 @@ internal class Program
         }
         return Nota;
         
-    }
-}}<|endoftext|>
+   }
+}
