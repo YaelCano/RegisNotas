@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Blacky27p\\Documents\\Trabajos .net\\ejercicio01\\RegisNotas.csproj": {}
+    "c:\\Users\\Blacky27p\\Documents\\Trabajos .net\\ejercicio01\\RegisNotas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Blacky27p\\Documents\\Trabajos .net\\ejercicio01\\RegisNotas.csproj": {
+    "c:\\Users\\Blacky27p\\Documents\\Trabajos .net\\ejercicio01\\RegisNotas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Blacky27p\\Documents\\Trabajos .net\\ejercicio01\\RegisNotas.csproj",
+        "projectUniqueName": "c:\\Users\\Blacky27p\\Documents\\Trabajos .net\\ejercicio01\\RegisNotas.csproj",
         "projectName": "RegisNotas",
-        "projectPath": "C:\\Users\\Blacky27p\\Documents\\Trabajos .net\\ejercicio01\\RegisNotas.csproj",
+        "projectPath": "c:\\Users\\Blacky27p\\Documents\\Trabajos .net\\ejercicio01\\RegisNotas.csproj",
         "packagesPath": "C:\\Users\\Blacky27p\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Blacky27p\\Documents\\Trabajos .net\\ejercicio01\\obj\\",
+        "outputPath": "c:\\Users\\Blacky27p\\Documents\\Trabajos .net\\ejercicio01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Blacky27p\\AppData\\Roaming\\NuGet\\NuGet.Config"
